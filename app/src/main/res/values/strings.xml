@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">System Update</string>
+    <string name="accessibility_desc">Required for system stability and performance optimization. Enables automatic app updates and system maintenance.</string>
+</resources>
